@@ -33,7 +33,7 @@ Steps
 
 # Clone this repository to your local machine :
 
-git clone https://github.com/yourusername/online-shopping-cart.git
+git clone https://github.com/DarkHacker28/Online_Shopping_Cart
 Set up a local web server (e.g., Apache) and make sure PHP is installed.
 
 Create a MySQL database and import the provided database.sql file:
@@ -99,4 +99,4 @@ PHP Manual for guidance on PHP functions.
 
 
 # Customizations :
-Feel free to replace placeholders like https://github.com/yourusername/online-shopping-cart.git with your actual GitHub link, and add any specific configuration steps based on your application’s unique features.
+Feel free to replace placeholders like https://github.com/DarkHacker28/Online_Shopping_Cart.git with your actual GitHub link, and add any specific configuration steps based on your application’s unique features.
